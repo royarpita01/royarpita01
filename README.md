@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Arpita Roy
 - 👀 I’m interested in create something new
 - 🌱 I’m currently learning objective oriented programming
+- 💬 Ask me about Technology and world update
 - 💞️ I’m looking to collaborate on my 2nd year group project
+- ⚡ Fun fact: Silent killer 
 - 📫 How to reach me cse_2012020315@lus.ac.bd
 
 <!---
